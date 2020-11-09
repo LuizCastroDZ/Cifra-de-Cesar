@@ -172,4 +172,3 @@ while i < 2:
   
   #CONSEGUI DIAAAAXO 
 
-  #acrecentar um sistema de chaves, se o usuario digitar uma certa chave, so descodificara a mensagem se a mesma chave for selecionada no descodificador.
